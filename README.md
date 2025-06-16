@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm a Master's student in Information Technology with a foundation in Safety and Security Management. I’m passionate about using data, code, and curiosity to tackle challenges at the intersection of emerging tech, risk, and security.
+I'm a Master's student in Information Technology (Cybersecurity Technology and Big Data) with a foundation in Safety and Security Management. I’m passionate about using data, code, and curiosity to tackle challenges at the intersection of emerging tech, risk, and security.
 
 ## 🧠 About Me
 
