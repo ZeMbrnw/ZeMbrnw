@@ -14,7 +14,7 @@ I'm a Master's student in Information Technology with a foundation in Safety and
 - **Programming Languages:** Python (favorite!), Java, SQL  
 - **Python Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, NLTK, VADER, NetworkX, Matplotlib, Seaborn, TensorFlow (learning), PyTorch (learning)  
 - **Data Science & Analytics:** Topic Modeling (LDA), Sentiment Analysis, Social Network Analysis, Anomaly Detection, Classification & Regression, Clustering  
-- **Databases & Data Warehousing:** MySQL, SQLite, MySQL Workbench, Data Warehouse Design (Star & Snowflake schemas), ETL Pipelines  
+- **Databases & Data Warehousing:** MySQL, SQLite, MySQL Workbench, Data Warehouse Design, ETL Pipelines  
 - **Visualization & Dashboards:** Tableau, Streamlit, Plotly, Jupyter Notebooks  
 - **Other Tools & Concepts:** Maven, JavaFX, Git, Automation  
 
