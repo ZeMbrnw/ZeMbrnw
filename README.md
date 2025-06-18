@@ -5,7 +5,7 @@ I'm a Master's student in Information Technology (Cybersecurity Technology and B
 ## 🧠 About Me
 
 - 🎓 Currently pursuing an M.S. in Information Technology  
-- 🔍 Background in Safety & Security Management (B.A.)  
+- 🔍 Background in Safety & Security Management (B.S.)  
 - 💡 Focused on security analytics, risk intelligence, and applied machine learning  
 - 🤖 Building skills in NLP, machine learning, automation, and visualization to turn data into actionable insights  
 
@@ -37,7 +37,7 @@ I'm a Master's student in Information Technology (Cybersecurity Technology and B
 
 ## 🚀 What I'm Exploring
 
-- Applying ML to security, policy, and disinformation challenges  
+- Applying ML to security, policy, and risk challenges  
 - Building intuitive tools for risk monitoring and intelligence  
 - Bridging technical skills with real-world safety & policy needs  
 
