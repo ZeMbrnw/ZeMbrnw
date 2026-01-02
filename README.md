@@ -4,21 +4,25 @@ I'm a Master's student in Information Technology (Cybersecurity Technology and B
 
 ## 🧠 About Me
 
-- 🎓 Currently pursuing an M.S. in Information Technology  
+- 🎓 Currently pursuing M.S. in Information Technology  
 - 🔍 Background in Safety & Security Management (B.S.)  
 - 💡 Focused on security analytics, risk intelligence, and applied machine learning  
 - 🤖 Building skills in NLP, machine learning, automation, and visualization to turn data into actionable insights  
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Python (favorite!), Java, SQL  
-- **Python Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, NLTK, VADER, NetworkX, Matplotlib, Seaborn, TensorFlow (learning), PyTorch (learning)  
+- **Programming Languages:** Python (favorite!), Java, SQL, Bash 
+- **Python Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, NLTK, VADER, NetworkX, Matplotlib, Seaborn, TensorFlow, PyTorch, XGBoost
 - **Data Science & Analytics:** Topic Modeling (LDA), Sentiment Analysis, Social Network Analysis, Anomaly Detection, Classification & Regression, Clustering  
-- **Databases & Data Warehousing:** MySQL, SQLite, MySQL Workbench, Data Warehouse Design, ETL Pipelines  
-- **Visualization & Dashboards:** Tableau, Streamlit, Plotly, Jupyter Notebooks  
-- **Other Tools & Concepts:** Maven, JavaFX, Git, Automation  
+- **Data Engineering:** MySQL, SQLite, MySQL Workbench, Data Warehouse Design, ETL Pipelines, Apache, Kafka, Airflow,AWS 
+- **Visualization & Dashboards:** Tableau, Streamlit, Plotly, Jupyter Notebooks, PowerBI  
+- **Other Tools & Concepts:** Maven, JavaFX, Git, Automation, Docker, Kotlin  
 
-## 🚧 Current Projects
+## 🚧 Projects
+
+📈 **EMS Response Prediction: End-to-End ML Pipeline**
+
+Developed an Airflow-orchestrated pipeline using XGBoost to predict NYC emergency response latency and achieved a 427s MAE, enabling strategic identification of urban supply-chain bottlenecks.
 
 - 📊 **Real-Time Bluesky Risk Monitor (ongoing)**  
   NLP-powered dashboard to track emerging risks from Bluesky posts, featuring sentiment and keyword analysis, built with Streamlit.
