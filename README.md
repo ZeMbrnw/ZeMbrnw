@@ -24,19 +24,19 @@ I'm a Master's student in Information Technology (Cybersecurity Technology and B
 
 Developed an Airflow-orchestrated pipeline using XGBoost to predict NYC emergency response latency and achieved a 427s MAE, enabling strategic identification of urban supply-chain bottlenecks.
 
-- 📊 **Real-Time Bluesky Risk Monitor (ongoing)**  
+📊 **Real-Time Bluesky Risk Monitor (ongoing)**  
   NLP-powered dashboard to track emerging risks from Bluesky posts, featuring sentiment and keyword analysis, built with Streamlit.
 
-- 🧠 **Topic Modeling on University Discourse**  
+🧠 **Topic Modeling on University Discourse**  
   Explored how data processing steps impact LDA results and sentiment on Wikipedia entries about R1/R2 universities.
 
-- 🔍 **Social Network Analytics on Political Tweets**  
+🔍 **Social Network Analytics on Political Tweets**  
   Performed large-scale social network analysis on 135,000+ tweets using Python and NetworkX to identify key communities, influential users, and sentiment dynamics during political events and crisis response.
 
-- 🎮 **Java Adventure Game**  
+🎮 **Java Adventure Game**  
   Developed a text-based adventure game in Java using JavaFX and Maven, focusing on object-oriented programming. It gives 90s vibes! 
 
-- 🚗 **Java Car State Control System**  
+🚗 **Java Car State Control System**  
   Built a modular car state control application in Java with comprehensive unit testing, emphasizing clean architecture, state management, and test-driven development.
 
 ## 🚀 What I'm Exploring
